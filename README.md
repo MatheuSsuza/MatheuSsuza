@@ -20,27 +20,18 @@
 
 ## Perfil técnico
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210" alt="Ilustração animada de programação" />
+**Matheus Furtado · Desenvolvedor de Software**
 
-**Desenvolvedor de Software** com foco em **APIs, automações e aplicações web e mobile**. Trabalho com Python, TypeScript, Node.js e Ruby, além de **React Native e Expo** no desenvolvimento mobile, bancos de dados relacionais e Docker.
+Desenvolvimento de **APIs, automações e aplicações web e mobile**, com Python, TypeScript, Node.js e Ruby. No mobile, utilizo **React Native e Expo**; na camada de dados, SQL, PostgreSQL e MySQL.
 
-```typescript
-const matheus = {
-  usuario: "MatheuSsuza",
-  foco: ["APIs", "automações", "web", "mobile"],
-  linguagens: ["Python", "TypeScript", "Ruby", "SQL"],
-  backend: ["Node.js", "Express", "NestJS"],
-  mobile: ["React Native", "Expo"],
-  dados: ["PostgreSQL", "MySQL"],
-  containers: ["Docker"],
-  estudando: [
-    "Automações com Python",
-    "Desenvolvimento de aplicativos Android"
-  ]
-};
-```
+### O que desenvolvo
 
-<br clear="both" />
+| Área | Aplicação | Tecnologias |
+| :--- | :--- | :--- |
+| **APIs e backend** | Serviços para aplicações e integração com dados. | Node.js · TypeScript · Express · NestJS |
+| **Mobile** | Desenvolvimento de aplicativos para dispositivos móveis. | React Native · Expo |
+| **Automações** | Rotinas para automatizar tarefas. | Python |
+| **Aplicações web** | Desenvolvimento de aplicações e integração com bancos de dados. | PostgreSQL · MySQL · SQL |
 
 ## Stack
 
@@ -63,20 +54,6 @@ const matheus = {
 ### 📦 Containers
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<details>
-<summary><strong>Como essa stack se conecta às minhas áreas de desenvolvimento</strong></summary>
-
-| Área | Tecnologias e foco |
-| :--- | :--- |
-| APIs | Node.js, TypeScript, Express e NestJS. |
-| Automações | Python para tarefas e rotinas. |
-| Aplicações web | Desenvolvimento de aplicações e integração com bancos de dados. |
-| Aplicações mobile | React Native e Expo para desenvolvimento de aplicativos. |
-| Dados | SQL, PostgreSQL e MySQL. |
-| Containers | Docker para ambientes de execução. |
-
-</details>
 
 <img src="./assets/divider-pulse.svg" width="100%" alt="" />
 
@@ -114,9 +91,9 @@ const matheus = {
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-furtado-aa0648248/"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/matheus-furtado-aa0648248/"><img src="./assets/contato-linkedin.svg" width="210" height="52" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/mati_souza_/"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/mati_souza_/"><img src="./assets/contato-instagram.svg" width="210" height="52" alt="Instagram" /></a>
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/matheus-furtado-aa0648248/">Matheus Furtado no LinkedIn</a> · <a href="https://www.instagram.com/mati_souza_/">@mati_souza_ no Instagram</a></p>
@@ -127,9 +104,8 @@ const matheus = {
 <summary>Créditos visuais</summary>
 
 - Banners e divisórias: [Profile Signal Kit](https://github.com/saroo98/profile-signal-kit).
-- Apresentação em código e ilustração: [Anmol098](https://github.com/anmol098/anmol098).
 - Painel de estudos: renderizador original da família Terminal do [RyMe.md](https://github.com/ryanpolasky/ryme.md).
-- Organização de stack e ícones sociais: [devSouvik](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/devSouvik.md).
+- Referência para organização de stack: [devSouvik](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/devSouvik.md).
 - Estatísticas: cards gerados por workflow próprio com os totais anônimos da API do GitHub.
 
 </details>
