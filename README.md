@@ -97,11 +97,11 @@ const matheus = {
 ## Estatísticas
 
 <p align="center">
-  <a href="https://github.com/MatheuSsuza"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheuSsuza&amp;theme=github_dark" width="100%" alt="Histórico de contribuições públicas de MatheuSsuza no GitHub" /></a>
+  <a href="https://github.com/MatheuSsuza"><img src="https://raw.githubusercontent.com/MatheuSsuza/MatheuSsuza/profile-stats/stats/activity.svg" width="100%" alt="Calendário com contribuições públicas e privadas anônimas de MatheuSsuza" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MatheuSsuza"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheuSsuza&amp;theme=github_dark" width="52%" alt="Estatísticas públicas: estrelas, commits, pull requests, issues e repositórios com contribuições" /></a>
+  <a href="https://github.com/MatheuSsuza"><img src="https://raw.githubusercontent.com/MatheuSsuza/MatheuSsuza/profile-stats/stats/summary.svg" width="100%" alt="Total de contribuições nos últimos 12 meses, públicas e privadas anônimas" /></a>
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ const matheus = {
   <img src="https://img.shields.io/github/stars/MatheuSsuza?label=Estrelas&amp;style=flat-square&amp;color=a3e635" alt="Estrelas em repositórios públicos" />
 </p>
 
-<sub>Os cards exibem a atividade pública disponível no GitHub e podem levar algum tempo para atualizar. A stack acima apresenta as tecnologias que utilizo; ela não é calculada a partir desses gráficos.</sub>
+<sub>Os cards incluem contribuições públicas e privadas anônimas dos últimos 12 meses, com atualização diária. Exibem apenas totais e contagens por dia, sem nomes de repositórios, código ou mensagens de commits. As estrelas e os seguidores são públicos.</sub>
 
 ## Contato
 
@@ -130,6 +130,6 @@ const matheus = {
 - Apresentação em código e ilustração: [Anmol098](https://github.com/anmol098/anmol098).
 - Painel de estudos: renderizador original da família Terminal do [RyMe.md](https://github.com/ryanpolasky/ryme.md).
 - Organização de stack e ícones sociais: [devSouvik](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/devSouvik.md).
-- Estatísticas: [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).
+- Estatísticas: cards gerados por workflow próprio com os totais anônimos da API do GitHub.
 
 </details>
