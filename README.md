@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero-template.svg" width="100%" alt="Matheus Furtado — Desenvolvedor de Software. APIs, automações e aplicações web. Estudos em Python e Android." />
+  <img src="./assets/profile-hero-template.svg" width="100%" alt="Matheus Furtado — Desenvolvedor de Software. APIs, automações e aplicações web e mobile. Estudos em Python e Android." />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1600&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=APIs%2C+automa%C3%A7%C3%B5es+e+aplica%C3%A7%C3%B5es+web;Python+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Ruby;Em+estudo%3A+automa%C3%A7%C3%B5es+com+Python+e+Android" width="100%" alt="APIs, automações e aplicações web. Em estudo: automações com Python e aplicativos Android." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1600&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=APIs%2C+automa%C3%A7%C3%B5es%2C+web+e+mobile;React+Native+%C2%B7+Expo;Python+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Ruby;Em+estudo%3A+automa%C3%A7%C3%B5es+com+Python+e+Android" width="100%" alt="APIs, automações e aplicações web e mobile. Em estudo: automações com Python e aplicativos Android." />
 </p>
 
 <p align="center">
@@ -22,14 +22,15 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210" alt="Ilustração animada de programação" />
 
-**Desenvolvedor de Software** com foco em **APIs, automações e aplicações web**. Trabalho com Python, TypeScript, Node.js e Ruby, além de bancos de dados relacionais e Docker.
+**Desenvolvedor de Software** com foco em **APIs, automações e aplicações web e mobile**. Trabalho com Python, TypeScript, Node.js e Ruby, além de **React Native e Expo** no desenvolvimento mobile, bancos de dados relacionais e Docker.
 
 ```typescript
 const matheus = {
   usuario: "MatheuSsuza",
-  foco: ["APIs", "automações", "aplicações web"],
+  foco: ["APIs", "automações", "web", "mobile"],
   linguagens: ["Python", "TypeScript", "Ruby", "SQL"],
   backend: ["Node.js", "Express", "NestJS"],
+  mobile: ["React Native", "Expo"],
   dados: ["PostgreSQL", "MySQL"],
   containers: ["Docker"],
   estudando: [
@@ -51,6 +52,10 @@ const matheus = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+### 📱 Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 ### 🗄️ Bancos de dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,6 +72,7 @@ const matheus = {
 | APIs | Node.js, TypeScript, Express e NestJS. |
 | Automações | Python para tarefas e rotinas. |
 | Aplicações web | Desenvolvimento de aplicações e integração com bancos de dados. |
+| Aplicações mobile | React Native e Expo para desenvolvimento de aplicativos. |
 | Dados | SQL, PostgreSQL e MySQL. |
 | Containers | Docker para ambientes de execução. |
 
