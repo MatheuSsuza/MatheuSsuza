@@ -1,0 +1,27 @@
+name: Atualizar estatísticas anônimas
+
+on:
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Obter somente o código do repositório de perfil
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Gerar e publicar somente números e calendário anônimos
+        run: node .github/scripts/update-stats.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
